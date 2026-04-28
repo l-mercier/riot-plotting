@@ -1,9 +1,9 @@
 .DS_Store
 node_modules
+.venv
 dist
 build
 coverage
-./mubu-riot-plotting/venv
 ./mubu-riot-plotting/data
 *.log
 .idea
