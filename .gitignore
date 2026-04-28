@@ -4,7 +4,7 @@ node_modules
 dist
 build
 coverage
-./mubu-riot-plotting/data
+mubu-riot-plotting/data/
 *.log
 .idea
 .vscode
