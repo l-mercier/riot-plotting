@@ -3,7 +3,8 @@ node_modules
 dist
 build
 coverage
-.env
+./mubu-riot-plotting/venv
+./mubu-riot-plotting/data
 *.log
 .idea
 .vscode
